@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Jan 2024 21:35:15 at https://deltasoftwaresolutions.net/careers/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://deltasoftwaresolutions.net/careers/ -O1 "C:\Users\User\Desktop\git\delta" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:37:52	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/wp-content/themes/assets/images/AjaxLoader.gif (from https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/style.css?ver=3.9.4)
+21:37:53	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/images/prettyPhoto/facebook/default_thumbnail.gif (from https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/style.css?ver=3.9.4)
+21:37:53	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/images/prettyPhoto/light_rounded/loader.gif (from https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/style.css?ver=3.9.4)
+21:37:53	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/images/prettyPhoto/dark_rounded/contentPattern.png (from https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/style.css?ver=3.9.4)
+21:37:53	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.eot
+21:37:54	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.eot?
+21:37:54	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.woff2
+21:37:54	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.woff
+21:37:54	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.ttf
+21:37:55	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/Icomoon.eot
+21:37:55	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/Icomoon.eot?
+21:37:55	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/Icomoon.woff2
+21:37:55	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/Icomoon.woff
+21:37:55	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/Icomoon.ttf
+21:37:56	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/hbicons.woff2?
+21:37:56	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/css/icons/hbicons.ttf
+21:37:56	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/careers/Version/ (from https://deltasoftwaresolutions.net/wp-content/plugins/layerslider/assets/static/layerslider/js/layerslider.utils.js?ver=7.9.6)
+21:37:56	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/careers/mqdefault.jpg (from https://deltasoftwaresolutions.net/wp-content/plugins/layerslider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.9.6)
+21:37:56	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/careers/hqdefault.jpg (from https://deltasoftwaresolutions.net/wp-content/plugins/layerslider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.9.6)
+21:37:56	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/careers/sddefault.jpg (from https://deltasoftwaresolutions.net/wp-content/plugins/layerslider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.9.6)
+21:37:56	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/careers/video/ (from https://deltasoftwaresolutions.net/wp-content/plugins/layerslider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.9.6)
+21:37:57	Warning: 	Moved Permanently for https://deltasoftwaresolutions.net/careers/Find updates and docs @ https://layerslider.com/
+21:37:57	Warning: 	File has moved from https://deltasoftwaresolutions.net/careers/Find updates and docs @ https://layerslider.com/ to https://deltasoftwaresolutions.net/careers/Find%20updates%20and%20docs%20@%20https:/layerslider.com/
+21:37:57	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/careers/dummy.png (from https://deltasoftwaresolutions.net/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.20)
+21:37:57	Warning: 	Moved Permanently for https://deltasoftwaresolutions.net/careers/origin=https://
+21:37:57	Warning: 	Redirected link is identical because of 'URL Hack' option: https://deltasoftwaresolutions.net/careers/origin=https:// and https://deltasoftwaresolutions.net/careers/origin=https:/
+21:37:57	Warning: 	File has moved from https://deltasoftwaresolutions.net/careers/origin=https:// to https://deltasoftwaresolutions.net/careers/origin=https:/
+21:37:57	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/plugins/revslider/public/assets/css/openhand.cur
+21:37:58	Warning: 	File not parsed, looks like binary: https://deltasoftwaresolutions.net/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+21:37:58	Error: 	"Not Found" (404) at link https://deltasoftwaresolutions.net/careers/youtu.be/ (from https://deltasoftwaresolutions.net/wp-content/themes/HighendWP/assets/js/jquery.prettyPhoto.js?ver=3.9.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 43 seconds : 147 links scanned, 133 files written (6158669 bytes overall) [6981590 bytes received at 42831 bytes/sec], 38146 bytes transferred using HTTP compression in 2 files, ratio 30%, 9.2 requests per connection
+(11 errors, 19 warnings, 0 messages)
